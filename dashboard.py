@@ -270,5 +270,4 @@ def render_reports():
 
 if __name__ == '__main__':
     app1.run(host='127.0.0.1', port='8050', debug=True)
-if __name__ == '__main__':
-    app2.run(host='127.0.0.1', port='8050', debug=True)
+
