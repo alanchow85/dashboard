@@ -20,7 +20,7 @@ from sklearn.neighbors import KNeighborsRegressor
 """
 Created on Wed Jun 27 09:12:59 2018
 
-@author: Alan
+@author: Alan Chow
 
 
 https://www.w3schools.com/css/css_inline-block.asp
