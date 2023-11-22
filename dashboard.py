@@ -1,5 +1,8 @@
 import dash
-from dash import dcc, Input, Output, Dash
+from dash import dcc 
+from dash import Input 
+from dash import Output 
+from dash import Dash
 from dash import html
 import pandas as pd
 import numpy as np
